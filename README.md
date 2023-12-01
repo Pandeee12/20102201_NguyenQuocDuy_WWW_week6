@@ -23,3 +23,5 @@ comment
 Delete Post
 ![delp](https://github.com/Pandeee12/Week06_lab_20102201_NguyenQuocDuy/assets/144768405/a37d7151-7a4c-48d7-b563-773f89463ce6)
 ![delp2](https://github.com/Pandeee12/Week06_lab_20102201_NguyenQuocDuy/assets/144768405/c8f5d417-580b-4842-b397-bb63cf2f40ea)
+
+https://github.com/Pandeee12/Week07_lab_20102201_NguyenQuocDuy.git
